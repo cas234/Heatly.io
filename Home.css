@@ -14,12 +14,12 @@ body{
     justify-content: space-between;
     align-items: center;
     width: 800px;
-    height: 600px;
+    height: 300px;
     
 }
 
 .contenedor .text {
-    margin-left: 45px;
+    margin-left: 20px;
 }
 
 .contenedor .text h1{
@@ -29,7 +29,7 @@ body{
     font-weight: bold;
 }
 
-.contenedor .text p{
+.contenedor .text h3{
     font-size: 18px;
     font-family: 'DM Sans', sans-serif;
 
@@ -47,6 +47,9 @@ body{
 }
 
 .contenedor .pr img{
-    width: 400px;
-    height: 375px;
+    width: 300px;
+    height: 300px;
+    margin-right: 25px;
+    border-radius: 150px;
+    margin-top: 20px;
 }
